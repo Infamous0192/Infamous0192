@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Infamous0192
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Typescript
 - 📫 How to reach me infamous0192@gmail.com
 
 <!---
